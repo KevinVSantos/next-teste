@@ -44,7 +44,7 @@ function Home(){
                 <MenuIcon />
             </IconButton>
             <Typography variant="h6" className={classes.title}>
-                Teste
+                MIGUEL TESTE
             </Typography>
             <Button color="inherit">Login</Button>
             </Toolbar>
